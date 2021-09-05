@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Enter name: ");
 		String name = s.next();
 		System.out.println("Your name is " + name + ".");
+		System.out.println("Welcome back!");
 	}
 
 }
